@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.onlineschedule"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="15" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"></uses-permission>
+    
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> 
+    
+    <application
+        android:name=".activity.BMapApiApp"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+       <activity android:label="@string/app_name" android:name=".activity.MainActivity"
+                  android:screenOrientation="portrait"
+                  >
+                  <!-- android:theme="@android:style/Theme.NoTitleBar" -->>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.LAUNCHER"></category>
+            </intent-filter>
+        </activity>
+
+        <activity android:label="@string/app_name" android:name=".activity.ScheduleInsert"
+                  android:screenOrientation="portrait"
+                  android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:label="@string/app_name" android:name=".activity.ScheduleShow"
+                  android:screenOrientation="portrait"
+                  android:theme="@android:style/Theme.NoTitleBar"></activity>       
+        <activity android:label="@string/app_name" android:name=".activity.LoginActivity"
+                  android:screenOrientation="portrait"></activity>
+
+
+        <activity android:name=".activity.Security"/>
+        <activity android:name=".activity.MapActivity" android:label="ShortestPath"/>
+    </application>
+
+</manifest>

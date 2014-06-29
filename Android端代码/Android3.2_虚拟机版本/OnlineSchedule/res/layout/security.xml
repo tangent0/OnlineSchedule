@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content">
+
+
+    <TableLayout
+            android:layout_width="wrap_content" android:layout_margin="10dp"
+            android:layout_height="fill_parent" android:layout_gravity="center">
+        <TableRow android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_margin="5dp"
+                >
+            <TextView android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/ori_pwd" android:layout_marginRight="10dp"
+                    />
+            <EditText android:id="@+id/etOriPwd"
+                      android:layout_width="120dp"
+                      android:inputType="textPassword"
+                      android:layout_height="wrap_content"/>
+
+        </TableRow>
+        <TableRow android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_margin="5dp"
+                >
+            <TextView android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/new_pwd" android:layout_marginRight="10dp"
+                    />
+            <EditText android:id="@+id/etNewPwd"
+                      android:layout_width="120dp"
+                      android:inputType="textPassword"
+                      android:layout_height="wrap_content"/>
+
+        </TableRow>
+        <TableRow android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_margin="5dp"
+                >
+            <TextView android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/new_pwd" android:layout_marginRight="10dp"
+                    />
+            <EditText android:id="@+id/etNewPwd2"
+                      android:layout_width="120dp"
+                      android:inputType="textPassword"
+                      android:layout_height="wrap_content"/>
+
+        </TableRow>
+    </TableLayout>
+    <LinearLayout android:layout_width="fill_parent"
+                  android:layout_height="fill_parent"
+                  android:gravity="center">
+        <Button android:id="@+id/btnSetPwd"
+                android:layout_height="wrap_content" android:layout_width="90dp"
+                android:text="@string/save"/>
+    </LinearLayout>
+</LinearLayout>

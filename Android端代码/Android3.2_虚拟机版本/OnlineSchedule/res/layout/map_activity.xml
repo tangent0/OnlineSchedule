@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:id="@+id/map_ll_go" android:layout_alignParentTop="true"
+            >
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="当前位置"/>
+        <EditText android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:id="@+id/et_map_current_loc" android:text="12"
+                android:layout_weight="1"
+                />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                  android:text="目标位置"/>
+        <EditText android:layout_width="wrap_content" android:layout_height="wrap_content"
+                  android:id="@+id/et_map_target_loc" android:text="25"
+                  android:layout_weight="1"
+                />
+        <Button android:layout_width="60dp" android:layout_height="wrap_content"
+                android:id="@+id/btn_map_go" android:text="Go"
+                />
+    </LinearLayout>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                  android:orientation="horizontal"
+            android:id="@+id/map_ll_path" android:layout_alignParentBottom="true">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:id="@+id/map_tv_path" android:layout_weight="1"
+                android:text="1->2"/>
+        <Button android:layout_width="80dp" android:layout_height="wrap_content"
+                android:id="@+id/map_btn_back" android:text="返回"/>
+
+    </LinearLayout>
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent"
+            android:id="@+id/sv_map"
+            android:layout_below="@+id/map_ll_go" android:layout_above="@+id/map_ll_path">
+        <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
+                android:src="@drawable/map" android:focusableInTouchMode="true"
+                android:scaleType="fitCenter"
+                />
+    </ScrollView>
+
+
+</RelativeLayout>
