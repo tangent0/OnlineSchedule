@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Schedule.Data.Remind,Schedule.Data" table="Remind" lazy="false">
+
+		<id name="Id" column="Id" type="Int32">
+			<generator class="assigned"/>
+		</id>
+		<property column="Note" type="String" name="Note" length="200" />
+    <property column="mon" type="Int32" name="Month" />
+    <property column="day" type="Int32" name="Day" />
+		
+	</class>
+</hibernate-mapping>

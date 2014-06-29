@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Schedule.Data.Student,Schedule.Data" table="Student" lazy="false">
+
+		<id name="StudentNo" column="StudentNo" type="String">
+			<generator class="assigned"/>
+		</id>
+		<property column="Name" type="String" name="Name" length="200" />
+		<property column="ClassNO" type="String" name="Classno" length="200" />
+		<property column="pwd" type="String" name="Pwd" length="200" />
+		<property column="phone" type="String" name="Phone" length="200" />
+		<property column="email" type="String" name="Email" length="200" />
+		
+	</class>
+</hibernate-mapping>

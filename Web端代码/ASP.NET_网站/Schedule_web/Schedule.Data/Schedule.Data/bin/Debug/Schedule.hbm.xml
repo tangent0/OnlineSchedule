@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Schedule.Data.Schedule,Schedule.Data" table="schedule" lazy="false">
+
+		<id name="Id" column="Id" type="Int32" unsaved-value="0">
+			<generator class="assigned"/>
+		</id>
+		<property column="week" type="Int32" name="Week" />
+		<property column="section" type="Int32" name="Section" />
+		<property column="course" type="String" name="Course" length="200" />
+		<property column="addr" type="String" name="Addr" length="200" />
+		<property column="course_code" type="String" name="CourseCode" length="200" />
+		<property column="teacher" type="String" name="Teacher" length="200" />
+		<property column="ClassNo" type="String" name="ClassNo" length="200" />
+    <property column="TeachingWeek" type="String" name="TeachingWeek" length="1024" />
+		
+	</class>
+</hibernate-mapping>

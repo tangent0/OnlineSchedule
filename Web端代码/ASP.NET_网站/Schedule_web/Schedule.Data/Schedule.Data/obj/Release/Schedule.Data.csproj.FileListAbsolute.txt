@@ -1,0 +1,16 @@
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Release\Schedule.hbm.xml
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Release\Student.hbm.xml
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Release\Tclass.hbm.xml
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Release\Teacher.hbm.xml
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Release\Schedule.Data.dll
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Release\Schedule.Data.pdb
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Release\NHibernate.dll
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Release\Iesi.Collections.dll
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Release\NHibernate.pdb
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Release\NHibernate.xml
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Release\Iesi.Collections.pdb
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Release\Iesi.Collections.xml
+D:\Design\Schedule\Schedule.Data\Schedule.Data\obj\Release\Schedule.Data.csprojResolveAssemblyReference.cache
+D:\Design\Schedule\Schedule.Data\Schedule.Data\obj\Release\Schedule.Data.dll
+D:\Design\Schedule\Schedule.Data\Schedule.Data\obj\Release\Schedule.Data.pdb
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Release\Remind.hbm.xml

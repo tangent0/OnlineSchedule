@@ -1,0 +1,10 @@
+F:\Visual Studio 2010\DevWebControl\DevControl\bin\Release\DevControl.dll
+F:\Visual Studio 2010\DevWebControl\DevControl\bin\Release\DevControl.pdb
+F:\Visual Studio 2010\DevWebControl\DevControl\obj\Release\ResolveAssemblyReference.cache
+F:\Visual Studio 2010\DevWebControl\DevControl\obj\Release\DevControl.dll
+F:\Visual Studio 2010\DevWebControl\DevControl\obj\Release\DevControl.pdb
+D:\Design\Schedule\WebStation\DevControl\bin\Release\DevControl.dll
+D:\Design\Schedule\WebStation\DevControl\bin\Release\DevControl.pdb
+D:\Design\Schedule\WebStation\DevControl\obj\Release\DevControl.csprojResolveAssemblyReference.cache
+D:\Design\Schedule\WebStation\DevControl\obj\Release\DevControl.dll
+D:\Design\Schedule\WebStation\DevControl\obj\Release\DevControl.pdb

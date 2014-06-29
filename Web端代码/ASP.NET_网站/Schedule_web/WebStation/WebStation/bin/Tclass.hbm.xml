@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Schedule.Data.Tclass,Schedule.Data" table="TClass" lazy="false">
+
+		<id name="Classno" column="ClassNO" type="String">
+			<generator class="assigned"/>
+		</id>
+		<property column="ClassName" type="String" name="ClassName" length="200" />
+		
+	</class>
+</hibernate-mapping>

@@ -1,0 +1,84 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterContent.master.cs" Inherits="WebStation.masterPage.MasterContent" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>内容页</title>
+    
+    <link href="../images/skin.css" rel="Stylesheet" type="text/css" />
+<script src="../../Common/common_js.js" type="text/javascript"></script>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #F8F9FA;
+	height:auto;
+}
+html {
+overflow: scroll;
+overflow-x: hidden;
+overflow-x: auto !important;
+}
+
+
+table{ border-collapse:collapse;}
+.dashedBorder{ border:2px #cccccc dashed; margin-bottom:5px; line-height:2em;}
+-->
+</style>
+</head>
+<body>
+    <form id="form1" runat="server">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="17" height="29" valign="top" background="../images/mail_leftbg.gif"><img src="../images/left-top-right.gif" width="17" height="29" /></td>
+    <td width="935" height="29" valign="top" background="../images/content-bg.gif"><table width="100%" height="31" border="0" cellpadding="0" cellspacing="0" class="left_topbg" id="table2">
+      <tr>
+        <td height="31">
+        <div class="titlebt"><asp:ContentPlaceHolder ID="conTitle" runat="server">
+            </asp:ContentPlaceHolder></div></td>
+      </tr>
+    </table></td>
+    <td width="16" valign="top" background="../images/mail_rightbg.gif"><img src="../images/nav-right-bg.gif" width="16" height="29" /></td>
+  </tr>
+  <tr>
+    <td valign="middle" background="../images/mail_leftbg.gif">&nbsp;</td>
+    <td valign="top" bgcolor="#F7F8F9">
+    <div style="margin:5px;">
+	<!--母版页内容开始-->
+    <table width="100%" height="31" border="0" cellpadding="0" cellspacing="0" class="nowtable">
+        <tr>
+            <td class="left_bt2">
+                &nbsp;&nbsp;&nbsp;&nbsp;操作说明</td>
+        </tr>
+    </table>
+       <table cellpadding="0" cellspacing="0" width="100%" class="add_table" >
+      <tr><td>
+      <asp:ContentPlaceHolder ID="summary" runat="server"></asp:ContentPlaceHolder>
+      </td></tr>
+      </table>
+      <br />
+        <asp:ContentPlaceHolder id="conCon" runat="server">
+        
+        </asp:ContentPlaceHolder>
+	<!--母版页内容结束-->
+	</div>
+	</td>
+    <td background="../images/mail_rightbg.gif"></td>
+  </tr>
+  <tr>
+    <td valign="middle" background="../images/mail_leftbg.gif"><img src="../images/buttom_left2.gif" width="17" height="17" /></td>
+      <td height="17" valign="top" background="../images/buttom_bgs.gif"><img src="../images/buttom_bgs.gif" width="17" height="17" /></td>
+    <td background="../images/mail_rightbg.gif"><img src="../images/buttom_right2.gif" width="16" height="17" /></td>
+  </tr>
+</table>
+
+
+    </form>
+</body>
+</html>

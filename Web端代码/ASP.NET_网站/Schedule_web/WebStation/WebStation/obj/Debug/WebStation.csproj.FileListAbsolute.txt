@@ -1,0 +1,98 @@
+D:\Design\Schedule\WebStation\WebStation\bin\Schedule.hbm.xml
+D:\Design\Schedule\WebStation\WebStation\bin\Student.hbm.xml
+D:\Design\Schedule\WebStation\WebStation\bin\Tclass.hbm.xml
+D:\Design\Schedule\WebStation\WebStation\bin\Teacher.hbm.xml
+D:\Design\Schedule\WebStation\WebStation\bin\WebStation.dll
+D:\Design\Schedule\WebStation\WebStation\bin\WebStation.pdb
+D:\Design\Schedule\WebStation\WebStation\bin\AspNet.ScriptManager.jQuery.dll
+D:\Design\Schedule\WebStation\WebStation\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Design\Schedule\WebStation\WebStation\bin\DevControl.dll
+D:\Design\Schedule\WebStation\WebStation\bin\DotNetOpenAuth.AspNet.dll
+D:\Design\Schedule\WebStation\WebStation\bin\DotNetOpenAuth.Core.dll
+D:\Design\Schedule\WebStation\WebStation\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Design\Schedule\WebStation\WebStation\bin\DotNetOpenAuth.OAuth.dll
+D:\Design\Schedule\WebStation\WebStation\bin\DotNetOpenAuth.OpenId.dll
+D:\Design\Schedule\WebStation\WebStation\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Design\Schedule\WebStation\WebStation\bin\EntityFramework.dll
+D:\Design\Schedule\WebStation\WebStation\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Design\Schedule\WebStation\WebStation\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Design\Schedule\WebStation\WebStation\bin\Microsoft.Web.Infrastructure.dll
+D:\Design\Schedule\WebStation\WebStation\bin\Schedule.Data.dll
+D:\Design\Schedule\WebStation\WebStation\bin\System.Web.Providers.dll
+D:\Design\Schedule\WebStation\WebStation\bin\NHibernate.dll
+D:\Design\Schedule\WebStation\WebStation\bin\System.Net.Http.dll
+D:\Design\Schedule\WebStation\WebStation\bin\Iesi.Collections.dll
+D:\Design\Schedule\WebStation\WebStation\bin\Schedule.Data.pdb
+D:\Design\Schedule\WebStation\WebStation\bin\DevControl.pdb
+D:\Design\Schedule\WebStation\WebStation\bin\EntityFramework.xml
+D:\Design\Schedule\WebStation\WebStation\bin\DotNetOpenAuth.Core.xml
+D:\Design\Schedule\WebStation\WebStation\bin\DotNetOpenAuth.OAuth.xml
+D:\Design\Schedule\WebStation\WebStation\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Design\Schedule\WebStation\WebStation\bin\DotNetOpenAuth.OpenId.xml
+D:\Design\Schedule\WebStation\WebStation\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Design\Schedule\WebStation\WebStation\bin\DotNetOpenAuth.AspNet.xml
+D:\Design\Schedule\WebStation\WebStation\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\Design\Schedule\WebStation\WebStation\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Design\Schedule\WebStation\WebStation\bin\NHibernate.pdb
+D:\Design\Schedule\WebStation\WebStation\bin\NHibernate.xml
+D:\Design\Schedule\WebStation\WebStation\bin\System.Net.Http.xml
+D:\Design\Schedule\WebStation\WebStation\bin\Iesi.Collections.pdb
+D:\Design\Schedule\WebStation\WebStation\bin\Iesi.Collections.xml
+D:\Design\Schedule\WebStation\WebStation\bin\zh-Hans\EntityFramework.resources.dll
+D:\Design\Schedule\WebStation\WebStation\bin\zh-Hans\System.Web.Providers.resources.dll
+D:\Design\Schedule\WebStation\WebStation\bin\zh-Hans\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+D:\Design\Schedule\WebStation\WebStation\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Design\Schedule\WebStation\WebStation\bin\zh-Hans\System.Net.Http.resources.dll
+D:\Design\Schedule\WebStation\WebStation\obj\Debug\WebStation.csprojResolveAssemblyReference.cache
+D:\Design\Schedule\WebStation\WebStation\obj\Debug\WebStation.dll
+D:\Design\Schedule\WebStation\WebStation\obj\Debug\WebStation.pdb
+D:\Design\Schedule\WebStation\WebStation\bin\Remind.hbm.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Schedule.hbm.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Student.hbm.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Tclass.hbm.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Teacher.hbm.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Remind.hbm.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\WebStation.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\WebStation.pdb
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\DevControl.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\DotNetOpenAuth.Core.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\EntityFramework.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Schedule.Data.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\System.Web.Providers.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\NHibernate.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\System.Net.Http.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Iesi.Collections.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Schedule.Data.pdb
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\DevControl.pdb
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\EntityFramework.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\DotNetOpenAuth.Core.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\NHibernate.pdb
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\NHibernate.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\System.Net.Http.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Iesi.Collections.pdb
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\Iesi.Collections.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\zh-Hans\System.Web.Providers.resources.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\zh-Hans\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\obj\Debug\WebStation.csprojResolveAssemblyReference.cache
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\obj\Debug\WebStation.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\WebStation\obj\Debug\WebStation.pdb

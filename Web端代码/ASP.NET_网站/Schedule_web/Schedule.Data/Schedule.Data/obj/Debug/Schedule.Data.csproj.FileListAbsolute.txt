@@ -1,0 +1,32 @@
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Debug\Schedule.hbm.xml
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Debug\Student.hbm.xml
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Debug\Tclass.hbm.xml
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Debug\Teacher.hbm.xml
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Debug\Schedule.Data.dll
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Debug\Schedule.Data.pdb
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Debug\NHibernate.dll
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Debug\Iesi.Collections.dll
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Debug\NHibernate.pdb
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Debug\NHibernate.xml
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Debug\Iesi.Collections.pdb
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Debug\Iesi.Collections.xml
+D:\Design\Schedule\Schedule.Data\Schedule.Data\obj\Debug\Schedule.Data.dll
+D:\Design\Schedule\Schedule.Data\Schedule.Data\obj\Debug\Schedule.Data.pdb
+D:\Design\Schedule\Schedule.Data\Schedule.Data\obj\Debug\Schedule.Data.csprojResolveAssemblyReference.cache
+D:\Design\Schedule\Schedule.Data\Schedule.Data\bin\Debug\Remind.hbm.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\bin\Debug\Schedule.hbm.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\bin\Debug\Student.hbm.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\bin\Debug\Tclass.hbm.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\bin\Debug\Teacher.hbm.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\bin\Debug\Remind.hbm.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\bin\Debug\Schedule.Data.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\bin\Debug\Schedule.Data.pdb
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\bin\Debug\NHibernate.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\bin\Debug\NHibernate.pdb
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\bin\Debug\NHibernate.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\bin\Debug\Iesi.Collections.pdb
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\obj\Debug\Schedule.Data.csprojResolveAssemblyReference.cache
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\obj\Debug\Schedule.Data.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\Schedule.Data\Schedule.Data\obj\Debug\Schedule.Data.pdb

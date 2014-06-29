@@ -1,0 +1,20 @@
+F:\Visual Studio 2010\DevWebControl\DevControl\bin\Debug\DevControl.dll
+F:\Visual Studio 2010\DevWebControl\DevControl\bin\Debug\DevControl.pdb
+F:\Visual Studio 2010\DevWebControl\DevControl\obj\Debug\ResolveAssemblyReference.cache
+F:\Visual Studio 2010\DevWebControl\DevControl\obj\Debug\DevControl.dll
+F:\Visual Studio 2010\DevWebControl\DevControl\obj\Debug\DevControl.pdb
+D:\Design\RFID\RFIDMgrSite\DevControl\bin\Debug\DevControl.dll
+D:\Design\RFID\RFIDMgrSite\DevControl\bin\Debug\DevControl.pdb
+D:\Design\RFID\RFIDMgrSite\DevControl\obj\Debug\DevControl.csprojResolveAssemblyReference.cache
+D:\Design\RFID\RFIDMgrSite\DevControl\obj\Debug\DevControl.dll
+D:\Design\RFID\RFIDMgrSite\DevControl\obj\Debug\DevControl.pdb
+D:\Design\Schedule\WebStation\DevControl\bin\Debug\DevControl.dll
+D:\Design\Schedule\WebStation\DevControl\bin\Debug\DevControl.pdb
+D:\Design\Schedule\WebStation\DevControl\obj\Debug\DevControl.dll
+D:\Design\Schedule\WebStation\DevControl\obj\Debug\DevControl.pdb
+D:\Design\Schedule\WebStation\DevControl\obj\Debug\DevControl.csprojResolveAssemblyReference.cache
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\DevControl\bin\Debug\DevControl.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\DevControl\bin\Debug\DevControl.pdb
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\DevControl\obj\Debug\DevControl.csprojResolveAssemblyReference.cache
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\DevControl\obj\Debug\DevControl.dll
+C:\Users\Administrator-XpSp3\Documents\Visual Studio 2010\Projects\Schedule_web\WebStation\DevControl\obj\Debug\DevControl.pdb
